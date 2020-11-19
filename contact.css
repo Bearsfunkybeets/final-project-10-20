@@ -1,0 +1,94 @@
+
+
+
+
+
+ img {
+    opacity: 0.5;
+  }
+
+
+.header {
+    display: left;
+    background-color: black;
+    text-emphasis-color: rgb(0, 0, 0);
+    text-align: left;  
+    padding: 0x;
+    font-size: 85px;
+  
+  }
+
+
+  .topnav {
+    display: flex;
+    overflow: hidden;
+    background-color: #dadada;
+  }
+  
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #020101;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  .topnav a:hover {
+    background-color: rgb(201, 189, 203);
+    color: rgb(137, 124, 124);
+  }
+
+  body {
+    background-image: url("house.jpg");
+
+    font-family: 'Cardo', serif;
+   }
+   
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+   }
+  
+          
+   h2 {
+    background-color: black;
+    color: lightgray;
+  }
+  p.thick {
+    font-weight: bold;
+  }
+  
+  
+  form { padding: 2em; 
+  font-weight: 3000;
+  font: size adjust 0.85;
+  }
+   
+   label { float: left;
+          display: block;
+          text-align: right;
+          width: 10em;
+          padding-right: 1em;
+          clear: left; }
+   
+   input, textarea { display: block; margin-bottom: 1em; }
+   
+   
+   #content-table { width: 90%;
+    margin: auto;
+    border-spacing: 0px;}
+          
+
+
+#mySubmit{
+
+margin-left: 9.5em;
+
+}
+
+h1 {
+  margin: 25px;
+}
